@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d06c4b9-4cf4-4ecf-8524-8e4774df9a1f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1k24DgGU3jmsAWYP41eyAlsJ20o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JAMStackBasic/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d06c4b9-4cf4-4ecf-8524-8e4774df9a1f" name="Default Changelist" comment="" />
+      <created>1604885234846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604885234846</updated>
+      <workItem from="1604885235879" duration="3189000" />
+      <workItem from="1605101547182" duration="2138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1257" height="342" key="GridCell.Tab.0.bottom" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.0.bottom/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.0.center" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.0.center/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.0.left" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.0.left/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.0.right" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.0.right/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.1.bottom" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.1.bottom/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.1.center" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.1.center/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.1.left" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.1.left/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.1.right" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.1.right/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.2.bottom" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.2.bottom/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.2.center" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.2.center/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.2.left" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.2.left/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.2.right" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.2.right/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.3.bottom" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.3.bottom/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.3.center" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.3.center/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.3.left" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.3.left/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state width="1257" height="342" key="GridCell.Tab.3.right" timestamp="1605105554758">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state width="1257" height="342" key="GridCell.Tab.3.right/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105554758" />
+    <state x="2076" y="-188" key="SettingsEditor" timestamp="1605105452190">
+      <screen x="1920" y="-349" width="2540" height="1033" />
+    </state>
+    <state x="2076" y="-188" key="SettingsEditor/1920.-349.2540.1033/0.0.1418.768@1920.-349.2540.1033" timestamp="1605105452190" />
+  </component>
+</project>
